@@ -1,7 +1,7 @@
 {
 	"name": "Hellolingo",
 	"devDependencies": {
-		"gulp": "3.9.1",
+		"gulp": "4.0.2",
 		"karma": "0.13.22",
 		"karma-jasmine": "0.3.8",
 		"karma-chrome-launcher": "0.2.3",
